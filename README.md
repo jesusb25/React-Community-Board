@@ -26,15 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/nSOYkMB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/5Q7Impx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with imgur
+GIF created with Imgur
 
 ## Notes
 
-I struggled creating the flex box responsive properties but everything else felt straightforward.
+I struggled to create the flexbox responsive properties but everything else felt straightforward.
 
 ## License
 
